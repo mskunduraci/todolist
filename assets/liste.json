@@ -1,0 +1,16 @@
+{
+  "liste": [
+    {
+      "baslik": "Merhaba sdad",
+      "not": "Bu çok iyi bir not"
+    },
+    {
+      "baslik": "Merhaba 2",
+      "not": "Bu çok iyi bir not 2"
+    },
+    {
+      "baslik": "Merhaba 3 ",
+      "not": "Bu çok iyi bir not 3"
+    }
+  ]
+}
